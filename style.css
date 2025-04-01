@@ -1,0 +1,9 @@
+*{
+    font-family: verdana, geneva, tahoma, sans-serif;
+
+}
+
+.dark-mode{
+    background-color: #222;
+    color: #e1d9d9;
+}
